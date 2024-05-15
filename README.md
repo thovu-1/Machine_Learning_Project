@@ -1,5 +1,5 @@
 # Machine_Learning_Project
- Teaching myself machine learning
+ Teaching myself / getting into machine learning
 
 
 # Project Description
